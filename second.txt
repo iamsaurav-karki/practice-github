@@ -1,2 +1,2 @@
 Hi, this is the second text file and i am practicing core github concepts.
-this is the second text file of the main branch.
+conflict resolved on the main branch.
