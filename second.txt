@@ -1,1 +1,3 @@
 Hi, this is the second text file and i am practicing core github concepts.
+
+to resolve the conflicts.

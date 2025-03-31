@@ -1,1 +1,3 @@
 Hi, this is the first file. i am practicing the core concept of github.
+hello , this is the second line done for resolving merge conflicts.
+
